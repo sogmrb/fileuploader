@@ -98,9 +98,8 @@ Handles document uploads with progress tracking.
 ### Backend Setup
 1. Create and activate a virtual environment
 2. Install dependencies: `pip install -r requirements.txt`
-3. Configure AWS credentials in settings.py
-4. Run migrations: `python manage.py migrate`
-5. Start the server: `python manage.py runserver`
+3. Run migrations: `python manage.py migrate`
+4. Start the server: `python manage.py runserver`
 
 ### Frontend Setup
 1. Install dependencies: `npm install`
